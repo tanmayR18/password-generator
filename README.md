@@ -41,4 +41,4 @@ Click on the link given below or follow the instrucations given below to run the
 
 ## Live Link
 
-https://benevolent-bonbon-8fa336.netlify.app/
+https://password-generator-18.netlify.app/
